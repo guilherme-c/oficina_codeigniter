@@ -1,4 +1,4 @@
-# oficina_codeigniter
+# Oficina de CodeIgniter
 Códigos necessários para a implementação de um CRUD básico na oficina sobre CodeIgniter no INFDAY 2017
 
 Alterações necessárias no arquivo "autoload":
